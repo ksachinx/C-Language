@@ -1,0 +1,10 @@
+Fruit Name: orang
+Color: yellow
+Fruit Name: dd
+Color: dee
+Fruit Name: ee
+Color: ddd
+Fruit Name: ftr
+Color: edff
+Fruit Name: re
+Color: ffg
